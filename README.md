@@ -27,12 +27,16 @@ themeMode and you are good to go.
 ## Usage Instructions
 
 This project requires at least a minimal knowledge of setting up and using Flutter. Once Flutter is
-setup (to develop for web), clone this repository and start making changes. There are many ways to
+setup (to develop for web), fork this repository and start making changes. There are many ways to
 publish your portfolio page online and one of the fastest ways is to deploy it on Firebase Hosting
 for free. To learn more, follow the official
 guide [here](https://firebase.google.com/docs/hosting/quickstart) or
 follow [this](https://medium.com/quick-code/deploy-host-flutter-web-with-firebase-hosting-6821bd060874)
 link.
+
+## Open Source
+
+This project is free of cost and can be used as you wish. If you find this project useful, please leave a star.
 
 ## Live demo
 
