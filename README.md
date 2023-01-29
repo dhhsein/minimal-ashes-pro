@@ -10,6 +10,7 @@ content.dart).
 
 ![Sample Demo](sample.png?raw=true "Sample Demo")
 
+## Live Demo - [here](https://minimalashespro.web.app)
 
 ## Customization
 
