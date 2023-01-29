@@ -34,13 +34,23 @@ guide [here](https://firebase.google.com/docs/hosting/quickstart) or
 follow [this](https://medium.com/quick-code/deploy-host-flutter-web-with-firebase-hosting-6821bd060874)
 link.
 
+## Quick setup
+
+1. Setup flutter (for web) on your computer
+1. Clone this repository or download as zip
+1. Run `flutter pub get`
+1. Run `flutter run -d chrome` to open a debug preview of the website
+1. Make changes to `constants.dart` or customize layout to your liking
+1. To reload the page and preview the changes as and when you modify, hit `R' key while the terminal is focused
+1. After finalising changes, run `flutter build web` to generate the source files (for hosting)
+1. Built source files are located at /build/web folder inside your project repository
+1. Configure firebase for hosting and choose the right path for the source files
+1. Deploy your website using 'firebase deploy --only hosting'
+
+
 ## Open Source
 
 This project is free of cost and can be used as you wish. If you find this project useful, please leave a star.
-
-## Live demo
-
-To see a live demo of this project, visit [www.dhinesh.cc](https://www.dhinesh.cc)
 
 ## Contact
 
